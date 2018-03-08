@@ -1,5 +1,5 @@
 <?php
-//
-//require('functions.php');
-//
-//task1();
+
+require('functions.php');
+
+task1();
